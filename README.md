@@ -1,5 +1,8 @@
 # Front End Assignment - Progress Bars
 Primary task: Using vanilla JavaScript or any JavaScript library of your choosing (no jQuery), implement the following (you can make it look however you like):
+[Example here](/progress-bars-demo.ogv)
+
+[Endpoint here](/bars)
 
 ### Requirements
 * Must read data from the endpoint 
