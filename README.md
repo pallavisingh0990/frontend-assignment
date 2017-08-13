@@ -1,5 +1,5 @@
 # Front End Assignment - Progress Bars
-## Primary task: Using vanilla JavaScript or any JavaScript library of your choosing (no jQuery), implement the following (you can make it look however you like):
+Primary task: Using vanilla JavaScript or any JavaScript library of your choosing (no jQuery), implement the following (you can make it look however you like):
 
 ### Requirements
 * Must read data from the endpoint 
