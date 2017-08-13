@@ -27,8 +27,9 @@ It's up to you to decide how far you want to go, time permitting.
 
 Example structure from the endpoint:
 
-{
-    "buttons": [
+```js
+{  
+    "buttons": [ 
         10,
         38,
         -13,
@@ -38,6 +39,6 @@ Example structure from the endpoint:
         62,
         45,
         62
-    ],
-    "limit": 230
+    ]
 }
+```
