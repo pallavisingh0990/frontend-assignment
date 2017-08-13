@@ -1,9 +1,9 @@
 # Front End Assignment - Progress Bars
 Primary task: Using vanilla JavaScript or any JavaScript library of your choosing (no jQuery), implement the following (you can make it look however you like):
 
-[Example here](/http://static.optus.com.au/pei/progress-bars-demo.ogv)
+[Example here](http://static.optus.com.au/pei/progress-bars-demo.ogv)
 
-[Endpoint here](/http://pb-api.herokuapp.com/bars)
+[Endpoint here](http://pb-api.herokuapp.com/bars)
 
 ### Requirements
 * Must read data from the endpoint 
